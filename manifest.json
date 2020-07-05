@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Motivate Me",
+  "version": "1.0.0",
+  "permissions": ["storage", "activeTab"],
+  "browser_action": {
+    "default_icon": {
+      "16": "images/flower-icon16.png",
+      "48": "images/flower-icon48.png",
+      "128": "images/flower-icon128.png"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "options_page": "options.html"
+}
