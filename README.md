@@ -1,4 +1,4 @@
-# Scratchy Note
+# Motivate Now
 
 - This is a Google Chrome extension
 - It displays a screen overlay with a motivational message
